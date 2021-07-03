@@ -5,4 +5,4 @@
 
 ## Description
 Program to visualize the flight routes between two positions on the earth.
-Programmed in Java from me and [Luca](https://github.com/TutiEgg)
+Programmed in Java from Jannik and [Luca](https://github.com/TutiEgg)
