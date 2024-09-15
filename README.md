@@ -1,5 +1,6 @@
 # FlugSimulator
 Bewegung entlang geodätischer Linien auf der Erdkugel
+Release [https://github.com/TutiEgg/FlugSim/releases/tag/v1]
 
 ![image](https://github.com/user-attachments/assets/2c1fe583-0ed8-4c33-be48-165be1588b34)
 
